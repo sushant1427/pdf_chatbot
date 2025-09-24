@@ -5,3 +5,12 @@ langchain-text-splitters
 google-generativeai
 faiss-cpu
 python-dotenv
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+pymupdf
+langchain-text-splitters
+python-multipart
+
+
