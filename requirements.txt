@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymupdf
+langchain-text-splitters
+google-generativeai
+faiss-cpu
+python-dotenv
